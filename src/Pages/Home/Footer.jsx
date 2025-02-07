@@ -20,7 +20,7 @@ const Footer = () => {
 
         <div className="flex space-x-6 justify-center md:justify-end mt-4 md:mt-0">
           <motion.a
-            href="https://github.com/yourgithub"
+            href="https://github.com/DreamerHridoy"
             className="text-gray-400 hover:text-white"
             whileHover={{ scale: 1.1 }}
             aria-label="GitHub"
@@ -28,7 +28,7 @@ const Footer = () => {
             <FaGithub size={30} />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/sahidul-islam-hridoy-841a0b317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
             className="text-gray-400 hover:text-white"
             whileHover={{ scale: 1.1 }}
             aria-label="LinkedIn"
