@@ -12,7 +12,7 @@ const Footer = () => {
     >
       <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
         <div className="text-center md:text-left">
-          <p className="text-lg font-semibold">Your Name</p>
+          <p className="text-lg font-semibold">Sahidul Islam Hridoy </p>
           <p className="text-sm text-gray-400">
             Junior Web Developer | React, TailwindCSS, Framer Motion
           </p>

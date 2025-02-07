@@ -7,7 +7,7 @@ const projects = [
       "💊 Medicine Selling eCommerce Website This project is a full-stack eCommerce platform for selling medicines online. It includes a user-friendly frontend built with React and a secure backend using Express.js and MongoDB.",
     liveLink: "https://medicine-selling-ff8ac.web.app/",
     exploreLink: "https://medicine-selling-ff8ac.web.app/",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://i.postimg.cc/Pf7Qw6bY/medicine.jpg",
   },
   {
     title: "🎓 Tutor Booking Platform 📚",
@@ -15,7 +15,7 @@ const projects = [
       "🎓 Tutor Booking Platform 📚 Welcome to the Tutor Booking Platform—an innovative and user-friendly solution designed to connect students with qualified tutors across various subjects and languages.",
     liveLink: "https://online-tutor-booking-64a1d.web.app/",
     exploreLink: "https://online-tutor-booking-64a1d.web.app/",
-    image: "https://via.placeholder.com/300x200",
+    image: "https://i.postimg.cc/SNXV10Qg/tutor.jpg",
   },
   {
     title: "🏀 Sports Equipment Store 🏐",
@@ -23,7 +23,7 @@ const projects = [
       "A full-stack web application for buying and managing sports equipment. Built with React, TailwindCSS, DaisyUI, Firebase, and a backend powered by Express.js, MongoDB, and Node.js.",
     liveLink: "https://sports-equipment-ba8eb.web.app/",
     exploreLink: "https://sports-equipment-ba8eb.web.app/",
-    image: "https://via.placeholder.com/300x200", // Replace with actual image URL
+    image: "https://i.postimg.cc/rFzY60jC/sports.jpg",
   },
 ];
 
