@@ -36,7 +36,7 @@ const Footer = () => {
             <FaLinkedin size={30} />
           </motion.a>
           <motion.a
-            href="mailto:youremail@example.com"
+            href="eng.sahidul.hridoy@gmail.com"
             className="text-gray-400 hover:text-white"
             whileHover={{ scale: 1.1 }}
             aria-label="Email"
