@@ -20,7 +20,10 @@ const education = [
 
 const EducationalQualifications = () => {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-base-200 p-6">
+    <div
+      id="education"
+      className="flex justify-center items-center min-h-screen bg-base-200 p-6"
+    >
       <div className="w-full max-w-3xl bg-base-100 shadow-2xl rounded-2xl p-6">
         <h2 className="text-4xl font-extrabold text-center text-primary mb-6">
           Educational Qualifications

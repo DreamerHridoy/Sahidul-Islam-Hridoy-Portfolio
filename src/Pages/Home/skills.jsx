@@ -28,7 +28,10 @@ const skills = [
 
 const Skills = () => {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-base-200">
+    <div
+      id="skills"
+      className="flex justify-center items-center min-h-screen bg-base-200"
+    >
       <div className="p-8 bg-base-100 text-base-content rounded-2xl shadow-2xl card w-full max-w-4xl">
         <h2 className="text-4xl font-extrabold text-center text-primary mb-8">
           My Skills

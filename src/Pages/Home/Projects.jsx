@@ -29,7 +29,7 @@ const projects = [
 
 const Projects = () => {
   return (
-    <div className="min-h-screen bg-gray-900 text-white p-6">
+    <div id="projects" className="min-h-screen bg-gray-900 text-white p-6">
       <motion.h1
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
