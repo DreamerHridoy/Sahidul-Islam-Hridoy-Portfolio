@@ -65,11 +65,7 @@ const AboutMe = () => {
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
         transition={{ delay: 1, duration: 0.5 }}
-      >
-        <a href="#projects" className="btn btn-primary px-6 py-3 text-lg">
-          View My Projects
-        </a>
-      </motion.div>
+      ></motion.div>
     </div>
   );
 };

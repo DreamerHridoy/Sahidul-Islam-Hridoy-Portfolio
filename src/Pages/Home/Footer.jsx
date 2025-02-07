@@ -48,7 +48,8 @@ const Footer = () => {
 
       <div className="border-t border-gray-700 mt-6 pt-4 text-center">
         <p className="text-sm text-gray-400">
-          &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+          &copy; {new Date().getFullYear()} Sahidul Islam Hridoy All rights
+          reserved.
         </p>
       </div>
     </motion.footer>
