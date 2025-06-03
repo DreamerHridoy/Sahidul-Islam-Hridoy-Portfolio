@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const WorkExperience = () => {
   return (
-    <section className="min-h-screen bg-gray-100 py-16">
+    <section className="min-h-screen bg-gray-100 py-16 px-4">
       <motion.h2
         className="text-4xl font-semibold text-primary text-center mb-16"
         initial={{ opacity: 0 }}
@@ -13,10 +13,10 @@ const WorkExperience = () => {
         Work Experience
       </motion.h2>
 
-      <div className="flex justify-center gap-8">
+      <div className="flex flex-wrap justify-center gap-8">
         {/* Work Experience Card 1 */}
         <motion.div
-          className="w-80 p-6 bg-white shadow-xl rounded-lg transform transition-transform hover:scale-105 hover:shadow-2xl"
+          className="w-full sm:w-96 p-6 bg-white shadow-xl rounded-lg transform transition-transform hover:scale-105 hover:shadow-2xl"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.5, duration: 1 }}
@@ -38,7 +38,7 @@ const WorkExperience = () => {
 
         {/* Work Experience Card 2 */}
         <motion.div
-          className="w-80 p-6 bg-white shadow-xl rounded-lg transform transition-transform hover:scale-105 hover:shadow-2xl"
+          className="w-full sm:w-96 p-6 bg-white shadow-xl rounded-lg transform transition-transform hover:scale-105 hover:shadow-2xl"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1, duration: 1 }}
@@ -60,7 +60,7 @@ const WorkExperience = () => {
 
         {/* Work Experience Card 3 */}
         <motion.div
-          className="w-80 p-6 bg-white shadow-xl rounded-lg transform transition-transform hover:scale-105 hover:shadow-2xl"
+          className="w-full sm:w-96 p-6 bg-white shadow-xl rounded-lg transform transition-transform hover:scale-105 hover:shadow-2xl"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 1.5, duration: 1 }}
